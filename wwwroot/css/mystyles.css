@@ -1,0 +1,43 @@
+canvas {
+    border: 1px solid black;
+    width: 560px;
+    height: 360px;
+}
+
+#blackSelector {
+    border: 3px solid black;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+}
+
+#redSelector {
+    border: none;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+
+#clearDrawing, #saveDrawing {
+    border: none;
+    background-color: gray;
+    color: white;
+    width: 75px;
+    padding: 5px;
+    text-align: center;
+}
+
+#smallSelector, #largeSelector{
+    border: none;
+    background-color: lavenderblush;
+    width: 75px;
+    padding: 5px;
+    text-align: center;
+}
+#mediumSelector {
+    border: none;
+    background-color: lavender;
+    width: 75px;
+    padding: 5px;
+    text-align: center;
+}
